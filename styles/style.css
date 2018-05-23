@@ -1,8 +1,7 @@
 body {
-	background-color: blue;
-	color: black;
+	background: blue;
 }
 
-ul {
+li {
 	text-decoration: none;
 }
