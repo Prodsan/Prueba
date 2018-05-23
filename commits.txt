@@ -1,0 +1,17 @@
+commit a56ec44149acef7d6249cb8606ed431a19c65698
+Author: Prodsan <pablorodrisan@hotmail.com>
+Date:   Wed May 23 18:38:32 2018 +0200
+
+    modificacion de hoja de estilo.
+
+commit b5369fa90c0a7b0971b73c22ea3e316b40b46796
+Author: Prodsan <pablorodrisan@hotmail.com>
+Date:   Wed May 23 18:34:06 2018 +0200
+
+    agrego colaboradores del proyecto
+
+commit 288c9118669ab98aa48fc162fd4a2ab5ad6322ce
+Author: Prodsan <pablorodrisan@hotmail.com>
+Date:   Wed May 23 18:26:14 2018 +0200
+
+    Iniciamos la aplicación web
